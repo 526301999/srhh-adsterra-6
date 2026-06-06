@@ -1,0 +1,72 @@
+{
+  "siteId": "pre-pregnancy-nutrition",
+  "generatedAt": "2026-06-05T18:14:00.206728",
+  "categories": [
+    "beginner-pre-pregnancy-nutrition",
+    "advanced-pre-pregnancy-nutrition",
+    "tips-pre-pregnancy-nutrition",
+    "history-pre-pregnancy-nutrition",
+    "trending-pre-pregnancy-nutrition",
+    "tutorials-pre-pregnancy-nutrition"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-pre-pregnancy-nutrition",
+      "category_name": "Beginner Pre Pregnancy Nutrition"
+    },
+    {
+      "category_slug": "advanced-pre-pregnancy-nutrition",
+      "category_name": "Advanced Pre Pregnancy Nutrition"
+    },
+    {
+      "category_slug": "tips-pre-pregnancy-nutrition",
+      "category_name": "Pre Pregnancy Nutrition Tips"
+    },
+    {
+      "category_slug": "history-pre-pregnancy-nutrition",
+      "category_name": "Pre Pregnancy Nutrition History"
+    },
+    {
+      "category_slug": "trending-pre-pregnancy-nutrition",
+      "category_name": "Trending Pre Pregnancy Nutrition"
+    },
+    {
+      "category_slug": "tutorials-pre-pregnancy-nutrition",
+      "category_name": "Pre Pregnancy Nutrition Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "pre-pregnancy-nutrition",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "name": "Roboto",
+      "family": "'Roboto', sans-serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');"
+    },
+    "layout": "centered-narrow",
+    "border_radius": "4px",
+    "box_shadow": "0 20px 25px -5px rgba(0,0,0,0.1), 0 10px 10px -5px rgba(0,0,0,0.04)",
+    "article_card_style": "minimal",
+    "header_style": "sticky",
+    "footer_style": "standard",
+    "modules": [
+      "stats-widget",
+      "newsletter-signup",
+      "popular-tags",
+      "social-links",
+      "featured-section",
+      "category-highlights"
+    ],
+    "site_title": "Pre Pregnancy Nutrition Central",
+    "articles_per_row": 1
+  }
+}

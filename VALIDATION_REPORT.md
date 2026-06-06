@@ -1,0 +1,136 @@
+# Validation Report - pre-pregnancy-nutrition
+
+Generated: 2026-06-05T18:14:00.206535
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: Beginner Pre Pregnancy Nutrition: Everything You Need to Know for Real People
+- ✓ Article word count OK: Understanding Beginner Pre Pregnancy Nutrition: A Deep Dive
+- ✓ Article word count OK: Why Beginner Pre Pregnancy Nutrition Tips and Best Practices is Trending in 2026
+- ✓ Article word count OK: Mastering Future of Beginner Pre Pregnancy Nutrition in Easy Steps
+- ✓ Article word count OK: Beginner Pre Pregnancy Nutrition: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Everything You Need to Know About Beginner Pre Pregnancy Nutrition
+- ✓ Article word count OK: The Future of Beginner Pre Pregnancy Nutrition for Beginners: What to Expect
+- ✓ Article word count OK: The Hidden Secrets of Common Mistakes in Beginner Pre Pregnancy Nutrition
+- ✓ Article word count OK: Beginner Pre Pregnancy Nutrition: Must-Read Insights and Reviews
+- ✓ Article word count OK: The History of Beginner Pre Pregnancy Nutrition: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Best Resources for Beginner Pre Pregnancy Nutrition in 2026: Current Trends
+- ✓ Article word count OK: Why Future of Beginner Pre Pregnancy Nutrition is the Best Thing Ever
+- ✓ Article word count OK: Why Advanced Beginner Pre Pregnancy Nutrition Techniques is Trending in 2026
+- ✓ Article word count OK: The Best Resources for Beginner Pre Pregnancy Nutrition Tips and Best Practices
+- ✓ Article word count OK: The Best Resources for Future of Beginner Pre Pregnancy Nutrition
+- ✓ Article word count OK: The Future of Future of Beginner Pre Pregnancy Nutrition: What to Expect
+- ✓ Article word count OK: Everything You Need to Know About Beginner Pre Pregnancy Nutrition for Beginners
+- ✓ Article word count OK: Understanding Advanced Beginner Pre Pregnancy Nutrition Techniques: A Deep Dive
+- ✓ Article word count OK: Advanced Pre Pregnancy Nutrition for Beginners: Must-Read Insights and Reviews
+- ✓ Article word count OK: Exploring the World of Advanced Advanced Pre Pregnancy Nutrition Techniques
+- ✓ Article word count OK: The Best Resources for Common Mistakes in Advanced Pre Pregnancy Nutrition
+- ✓ Article word count OK: Proven Strategies for Advanced Advanced Pre Pregnancy Nutrition Techniques
+- ✓ Article word count OK: Why Advanced Pre Pregnancy Nutrition in 2026: Current Trends is Trending in 2026
+- ✓ Article word count OK: Proven Strategies for Advanced Pre Pregnancy Nutrition in 2026: Current Trends
+- ✓ Article word count OK: Advanced Pre Pregnancy Nutrition for Beginners 101: Complete Beginner's Guide
+- ✓ Article word count OK: Advanced Pre Pregnancy Nutrition for Beginners: From Beginner to Expert
+- ✓ Article word count OK: Advanced Advanced Pre Pregnancy Nutrition Techniques: Must-Read Insights and Reviews
+- ✓ Article word count OK: Understanding Advanced Pre Pregnancy Nutrition: A Deep Dive
+- ✓ Article word count OK: Advanced Advanced Pre Pregnancy Nutrition Techniques 101: Complete Beginner's Guide
+- ✓ Article word count OK: Understanding Common Mistakes in Advanced Pre Pregnancy Nutrition: A Deep Dive
+- ✓ Article word count OK: Why Advanced Advanced Pre Pregnancy Nutrition Techniques is Trending in 2026
+- ✓ Article word count OK: Advanced Pre Pregnancy Nutrition: Everything You Need to Know: Must-Read Insights and Reviews
+- ✓ Article word count OK: Exploring the World of Advanced Advanced Pre Pregnancy Nutrition Techniques
+- ✓ Article word count OK: Common Mistakes in Advanced Pre Pregnancy Nutrition 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Ultimate Guide to Advanced Pre Pregnancy Nutrition Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Pre Pregnancy Nutrition: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Essential The History of Pre Pregnancy Nutrition Tips Techniques You Should Know
+- ✓ Article word count OK: Mastering Pre Pregnancy Nutrition Tips for Beginners in Easy Steps
+- ✓ Article word count OK: Amazing Secrets of Pre Pregnancy Nutrition Tips in 2026: Current Trends!
+- ✓ Article word count OK: The Future of Advanced Pre Pregnancy Nutrition Tips Techniques: What to Expect
+- ✓ Article word count OK: The Best Resources for Pre Pregnancy Nutrition Tips in 2026: Current Trends
+- ✓ Article word count OK: The Future of Pre Pregnancy Nutrition Tips Tips and Best Practices: What to Expect
+- ✓ Article word count OK: Exploring the World of Future of Pre Pregnancy Nutrition Tips
+- ✓ Article word count OK: Future of Pre Pregnancy Nutrition Tips: From Beginner to Expert
+- ✓ Article word count OK: Mastering Common Mistakes in Pre Pregnancy Nutrition Tips in Easy Steps
+- ✓ Article word count OK: Future of Pre Pregnancy Nutrition Tips: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Truth About Common Mistakes in Pre Pregnancy Nutrition Tips
+- ✓ Article word count OK: Pre Pregnancy Nutrition Tips in 2026: Current Trends: Must-Read Insights and Reviews
+- ✓ Article word count OK: Essential The History of Pre Pregnancy Nutrition Tips Techniques You Should Know
+- ✓ Article word count OK: The Best Resources for Pre Pregnancy Nutrition Tips
+- ✓ Article word count OK: Amazing Secrets of Pre Pregnancy Nutrition Tips for Beginners!
+- ✓ Article word count OK: Proven Strategies for The History of Pre Pregnancy Nutrition Tips
+- ✓ Article word count OK: What They Don't Tell You About Pre Pregnancy Nutrition Tips: Everything You Need to Know
+- ✓ Article word count OK: Why Advanced Pre Pregnancy Nutrition Tips Techniques is Trending in 2026
+- ✓ Article word count OK: The Hidden Secrets of Advanced Pre Pregnancy Nutrition History Techniques
+- ✓ Article word count OK: Mastering Pre Pregnancy Nutrition History in Easy Steps
+- ✓ Article word count OK: Why Future of Pre Pregnancy Nutrition History is Trending in 2026
+- ✓ Article word count OK: The Ultimate Guide to Future of Pre Pregnancy Nutrition History
+- ✓ Article word count OK: The Hidden Secrets of Pre Pregnancy Nutrition History Tips and Best Practices
+- ✓ Article word count OK: The Ultimate Guide to Pre Pregnancy Nutrition History for Beginners
+- ✓ Article word count OK: The Ultimate Guide to Advanced Pre Pregnancy Nutrition History Techniques
+- ✓ Article word count OK: Proven Strategies for Pre Pregnancy Nutrition History
+- ✓ Article word count OK: The Ultimate Guide to The History of Pre Pregnancy Nutrition History
+- ✓ Article word count OK: Why Common Mistakes in Pre Pregnancy Nutrition History is Trending in 2026
+- ✓ Article word count OK: Why Common Mistakes in Pre Pregnancy Nutrition History is Trending in 2026
+- ✓ Article word count OK: Pre Pregnancy Nutrition History: Everything You Need to Know: From Beginner to Expert
+- ✓ Article word count OK: The Future of Pre Pregnancy Nutrition History: Everything You Need to Know: What to Expect
+- ✓ Article word count OK: Common Mistakes in Pre Pregnancy Nutrition History for Real People
+- ✓ Article word count OK: Why The History of Pre Pregnancy Nutrition History is the Best Thing Ever
+- ✓ Article word count OK: Why The History of Pre Pregnancy Nutrition History is Trending in 2026
+- ✓ Article word count OK: Proven Strategies for Pre Pregnancy Nutrition History for Beginners
+- ✓ Article word count OK: Proven Strategies for Pre Pregnancy Nutrition History for Beginners
+- ✓ Article word count OK: Mastering Trending Pre Pregnancy Nutrition in 2026: Current Trends in Easy Steps
+- ✓ Article word count OK: Proven Strategies for Trending Pre Pregnancy Nutrition for Beginners
+- ✓ Article word count OK: Everything You Need to Know About Common Mistakes in Trending Pre Pregnancy Nutrition
+- ✓ Article word count OK: The Hidden Secrets of Trending Pre Pregnancy Nutrition for Beginners
+- ✓ Article word count OK: The Future of Trending Pre Pregnancy Nutrition: Everything You Need to Know: What to Expect
+- ✓ Article word count OK: Trending Pre Pregnancy Nutrition 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Future of Advanced Trending Pre Pregnancy Nutrition Techniques: What to Expect
+- ✓ Article word count OK: The Best Resources for Trending Pre Pregnancy Nutrition
+- ✓ Article word count OK: Understanding Trending Pre Pregnancy Nutrition: A Deep Dive
+- ✓ Article word count OK: Trending Pre Pregnancy Nutrition for Beginners: From Beginner to Expert
+- ✓ Article word count OK: The Ultimate Guide to Future of Trending Pre Pregnancy Nutrition
+- ✓ Article word count OK: The Truth About Trending Pre Pregnancy Nutrition
+- ✓ Article word count OK: Unlock Your Trending Pre Pregnancy Nutrition in 2026: Current Trends Potential Now!
+- ✓ Article word count OK: Trending Pre Pregnancy Nutrition: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Hidden Secrets of The History of Trending Pre Pregnancy Nutrition
+- ✓ Article word count OK: The Truth About Trending Pre Pregnancy Nutrition
+- ✓ Article word count OK: Essential Trending Pre Pregnancy Nutrition Tips and Best Practices Techniques You Should Know
+- ✓ Article word count OK: Common Mistakes in Trending Pre Pregnancy Nutrition: Must-Read Insights and Reviews
+- ✓ Article word count OK: Future of Pre Pregnancy Nutrition Tutorials: From Beginner to Expert
+- ✓ Article word count OK: Advanced Pre Pregnancy Nutrition Tutorials Techniques 101: Complete Beginner's Guide
+- ✓ Article word count OK: Essential Pre Pregnancy Nutrition Tutorials in 2026: Current Trends Techniques You Should Know
+- ✓ Article word count OK: The Future of Advanced Pre Pregnancy Nutrition Tutorials Techniques: What to Expect
+- ✓ Article word count OK: Understanding Advanced Pre Pregnancy Nutrition Tutorials Techniques: A Deep Dive
+- ✓ Article word count OK: Why You Need to Check Out Pre Pregnancy Nutrition Tutorials
+- ✓ Article word count OK: Mastering Future of Pre Pregnancy Nutrition Tutorials in Easy Steps
+- ✓ Article word count OK: Pre Pregnancy Nutrition Tutorials Tips and Best Practices 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Best Resources for Advanced Pre Pregnancy Nutrition Tutorials Techniques
+- ✓ Article word count OK: Common Mistakes in Pre Pregnancy Nutrition Tutorials: Must-Read Insights and Reviews
+- ✓ Article word count OK: Pre Pregnancy Nutrition Tutorials: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Exploring the World of Pre Pregnancy Nutrition Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Proven Strategies for Pre Pregnancy Nutrition Tutorials Tips and Best Practices
+- ✓ Article word count OK: Future of Pre Pregnancy Nutrition Tutorials: From Beginner to Expert
+- ✓ Article word count OK: Mastering Pre Pregnancy Nutrition Tutorials in 2026: Current Trends in Easy Steps
+- ✓ Article word count OK: Why Pre Pregnancy Nutrition Tutorials is Trending in 2026
+- ✓ Article word count OK: Proven Strategies for The History of Pre Pregnancy Nutrition Tutorials
+- ✓ Article word count OK: The Ultimate Guide to Common Mistakes in Pre Pregnancy Nutrition Tutorials
+- ✓ Ad configuration validated
